@@ -14,4 +14,5 @@ This pre-assessment is designed to identify my current knowledge across the 5 do
 
 
 
-<img width="1100" height="834" alt="image" src="https://github.com/user-attachments/assets/05fdacb8-06e6-4112-87f9-2070de843841" />
+<img width="1096" height="831" alt="image" src="https://github.com/user-attachments/assets/550b38e5-2efe-4f2b-9bec-5d2f609f52fc" />
+
